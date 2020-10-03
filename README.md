@@ -6,6 +6,16 @@ This is an exploratory data analysis project into the mortality rate of COVID-19
 # Key Findings
 While I am far from qualified to postulate on anything remotely virology related, I found it interesting that the mortality rate is far from static over time. While a generally distrubited vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis.
 
+Mortality for all sex, race and ethnicity, grouped by age:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/b2093a8c-32e6-4deb-8472-d58ba4277a38.jfif)
+
+Ages < 40:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/eb9a0ad1-543d-41cc-bee8-090005891b06.jfif)
+
+Ages >= 40:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/e8523d40-f77c-49fe-875a-c59350398216.jfif)
+
+All ages:
 ![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/01f507bb-dc33-408d-a854-88cfd95ba5bd.jfif)
 
 # Ambiguities:
