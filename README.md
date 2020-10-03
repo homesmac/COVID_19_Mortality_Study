@@ -4,19 +4,24 @@
 This is an exploratory data analysis project into the mortality rate of COVID-19, in the United States, using the latest data available from the CDC.
 
 # Key Findings
-While I am far from qualified to postulate on anything remotely virology related, I found it interesting that the mortality rate is far from static over time. While a generally distrubited vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis.
+While I am far from a qualified virologist to postulate on anything remoted virology-related, I found it interesting that the mortality rate is far from static over time. While a generally distrubited vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis. No hypothesis testing for causality has occured in this EDA.
 
-Mortality for all sex, race and ethnicity, grouped by age:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/b2093a8c-32e6-4deb-8472-d58ba4277a38.jfif)
+# Mortality for all sex, race and ethnicity, grouped by age:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/all_ages_df.png)
 
-Ages < 40:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/eb9a0ad1-543d-41cc-bee8-090005891b06.jfif)
+# Ages < 40:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/under_40.png)
 
-Ages >= 40:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/e8523d40-f77c-49fe-875a-c59350398216.jfif)
+# Ages >= 40:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/40_plus.png)
 
-All ages:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/01f507bb-dc33-408d-a854-88cfd95ba5bd.jfif)
+# All ages:
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/all_ages.png)
+
+# White, Non-Hispanic, Male, 70-79 years old
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/white_male_70s.PNG)
+
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/white_male_70s_plot.PNG)
 
 # Ambiguities:
 * 42.30% race is 'Unknown'
