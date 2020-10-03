@@ -4,7 +4,7 @@
 This is an exploratory data analysis project into the mortality rate of COVID-19, in the United States, using the latest data available from the CDC.
 
 # Key Findings
-While I am far from a qualified virologist to postulate on anything remoted virology-related, I found it interesting that the mortality rate is far from static over time. While a generally distrubited vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis. No hypothesis testing for causality has occured in this EDA.
+While I am far from a qualified virologist to postulate on anything remotley virology related, I found it interesting that the mortality rate is far from static over time. While a generally distributed vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis. No hypothesis testing for causality has occurred in this EDA.
 
 # Mortality for all sex, race and ethnicity, grouped by age:
 ![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/all_ages_df.png)
@@ -31,7 +31,7 @@ While I am far from a qualified virologist to postulate on anything remoted viro
 * 3.53% current_status is 'Probable Case'
 
 # Next Steps
-Incorporate comorbidity data also available from CDC, however a hurdle remains as the data is not split by demographics available in this study.
+Incorporate comorbidity data also available from the CDC. However, this data is not split by demographic which may pose a challenge.
 
 # Contact
 Jonathan McWilliams\
