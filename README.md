@@ -6,13 +6,6 @@ This is simply an exploratory data analysis project into the true mortality of t
 # Key Findings
 While I am far from qualified to postulate on anything remotely virology related, I found it interesting that the mortality rate is far from static over time. While a generally distrubited vaccine has yet to be delivered, the mortality rate has managed to decrease month over month, from the onset of the virus to present day. I assume this is due to a number of factors, namely the increase of testing, a better understanding of the virus, and medical advances in treatment.
 
-# Parameters used in the "White, Non-Hispanic, Male, 70-79 years old" analysis:
-* Race and ethnicity (combined) = 'White, Non-Hispanic'
-* Sex = 'Male'
-* Age_group = '70 -79 Years'
-* Death_yn = 'Yes'
-* Current_status = 'Laboratory-confirmed case'
-
 # Ambiguities:
 * 42.30% race is 'Unknown'
 * 0.15% sex is 'Missing' or 'Other'
