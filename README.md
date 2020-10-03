@@ -38,7 +38,7 @@ Jonathan McWilliams\
 jonathan dot g dot mcwilliams at gmail\
 https://www.linkedin.com/in/jonathan-mcwilliams/
 
-#Source 
+# Source 
 Data provided by CDC Case Surveillance Task Force available at https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf \
 Date current as of: 2020/10/02
 
