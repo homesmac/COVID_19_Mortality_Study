@@ -1,7 +1,7 @@
 # COVID-19 Mortality Study
 
 # Purpose
-This is simply an exploratory data analysis project into the true mortality of the COVID-19 virus, in the United States, using the latest and most comprehensive data available from the CDC.
+This is simply an exploratory data analysis project into the true mortality of the COVID-19 virus, in the United States, using the latest data available from the CDC.
 
 # Key Findings
 While I am far from qualified to postulate on anything remotely virology related, I found it interesting that the mortality rate is far from static over time. While a generally distrubited vaccine has yet to be delivered, the mortality rate has managed to decrease month over month, from the onset of the virus to present day. I assume this is due to a number of factors, namely the increase of testing, a better understanding of the virus, and medical advances in treatment.
