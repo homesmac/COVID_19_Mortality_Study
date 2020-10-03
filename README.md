@@ -7,21 +7,21 @@ This is an exploratory data analysis project into the mortality rate of COVID-19
 While I am far from a qualified virologist to postulate on anything remotely virology related, I found it interesting that the mortality rate is far from static over time. While a generally distributed vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis. No hypothesis testing for causality has occurred in this EDA.
 
 # Mortality for all sex, race and ethnicity, grouped by age:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/all_ages_df.png)
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/06_all_ages_df.png)
 
 # Ages < 40:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/under_40.png)
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/01_under_40.png)
 
 # Ages >= 40:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/40_plus.png)
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/02_40_plus.png)
 
 # All ages:
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/all_ages.png)
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/05_all_ages.png)
 
 # White, Non-Hispanic, Male, 70-79 years old
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/white_male_70s.PNG)
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/04_white_male_70s.PNG)
 
-![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/white_male_70s_plot.PNG)
+![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/03_white_male_70s_plot.PNG)
 
 # Ambiguities:
 * 42.30% race is 'Unknown'
