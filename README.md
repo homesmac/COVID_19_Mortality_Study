@@ -1,4 +1,4 @@
-# COVID-19 Case Mortality Study
+# COVID-19 Mortality Study
 
 # Purpose
 This is an exploratory data analysis project into the case mortality rate of COVID-19, in the United States, using the latest data available from the CDC. Case mortality is calculated as deaths divided by laboratory-confirmed cases. All sex and race/ethnicity have been grouped by age group.
