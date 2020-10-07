@@ -1,10 +1,10 @@
-# COVID-19 Mortality Study
+# COVID-19 Case Mortality Study
 
 # Purpose
-This is an exploratory data analysis project into the mortality rate of COVID-19, in the United States, using the latest data available from the CDC. Mortality is calculated as deaths divided by laboratory-confirmed cases. All sex and race/ethnicity have been grouped by age group.
+This is an exploratory data analysis project into the case mortality rate of COVID-19, in the United States, using the latest data available from the CDC. Case mortality is calculated as deaths divided by laboratory-confirmed cases. All sex and race/ethnicity have been grouped by age group.
 
 # Key Findings
-While I am far from a qualified virologist to postulate on anything remotely virology related, I found it interesting that the mortality rate is far from static over time. While a generally distributed vaccine has yet to be available, the observed mortality rate has generally decreased across all age groups on a month over month basis. No hypothesis testing for causality has occurred in this EDA.
+While I am far from a qualified virologist to postulate on anything remotely virology related, I found it interesting that the case mortality rate is far from static over time. While a generally distributed vaccine has yet to be available, the observed case mortality rate has generally decreased across all age groups on a month over month basis. No hypothesis testing for causality has occurred in this EDA.
 
 # Mortality (%) for all sex, race and ethnicity, grouped by age:
 ![alt text](https://github.com/homesmac/COVID_19_Mortality_Study/blob/main/mortality_study_images/06_all_ages_df.png)
